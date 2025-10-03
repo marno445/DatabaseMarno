@@ -13,5 +13,10 @@
     "username": "zeinx",
     "password": "12345",
     "role": "user"
+  },
+  {
+    "username": "zeinx1",
+    "password": "zeinx",
+    "role": "admin"
   }
 ]
