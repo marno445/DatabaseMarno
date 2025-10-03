@@ -13,5 +13,10 @@
     "username": "admin",
     "password": "adminpass",
     "role": "admin"
+  },
+  {
+    "username": "Memeo",
+    "password": "meme",
+    "role": "user"
   }
 ]
