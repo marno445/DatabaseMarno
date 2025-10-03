@@ -1,17 +1,1 @@
-[
-  {
-    "username": "admin",
-    "password": "12345",
-    "role": "admin"
-  },
-  {
-    "username": "user1",
-    "password": "passwordku",
-    "role": "user"
-  },
-  {
-    "username": "test",
-    "password": "coba123",
-    "role": "user"
-  }
-]
+[]
