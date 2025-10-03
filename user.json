@@ -5,11 +5,6 @@
     "role": "user"
   },
   {
-    "username": "user2",
-    "password": "mypassword",
-    "role": "user"
-  },
-  {
     "username": "admin",
     "password": "adminpass",
     "role": "admin"
