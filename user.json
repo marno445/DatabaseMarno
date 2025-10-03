@@ -3,5 +3,10 @@
     "username": "marno",
     "password": "marno",
     "role": "user"
+  },
+  {
+    "username": "Marno",
+    "password": "marno",
+    "role": "user"
   }
 ]
