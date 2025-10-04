@@ -23,5 +23,10 @@
     "username": "arxshama",
     "password": "arsxhama1",
     "role": "user"
+  },
+  {
+    "username": "Marno",
+    "password": "123",
+    "role": "admin"
   }
 ]
