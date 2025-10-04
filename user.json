@@ -1,10 +1,5 @@
 [
   {
-    "username": "admin",
-    "password": "123",
-    "role": "admin"
-  },
-  {
     "username": "zeinx",
     "password": "12345",
     "role": "user"
