@@ -20,11 +20,6 @@
     "role": "user"
   },
   {
-    "username": "admin",
-    "password": "123",
-    "role": "admin"
-  },
-  {
     "username": "Marno",
     "password": "123",
     "role": "admin"
