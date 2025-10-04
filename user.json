@@ -23,10 +23,5 @@
     "username": "Marno",
     "password": "123",
     "role": "admin"
-  },
-  {
-    "username": "admin",
-    "password": "123",
-    "role": "user"
   }
 ]
