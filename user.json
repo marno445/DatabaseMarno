@@ -28,5 +28,10 @@
     "username": "admin",
     "password": "123",
     "role": "user"
+  },
+  {
+    "username": "tes",
+    "password": "123",
+    "role": "user"
   }
 ]
